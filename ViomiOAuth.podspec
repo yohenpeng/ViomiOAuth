@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "ViomiOAuth"
-  spec.version      = "1"
+  spec.version      = "2"
   spec.summary      = "云米iOS ViomiOAuth SDK"
   spec.description  = <<-DESC
   云米iOS ViomiOAuth SDK
