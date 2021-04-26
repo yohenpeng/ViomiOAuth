@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ViomiOAuth-Swift.h</key>
 		<data>
-		eJ2icRj5Qo5XTUIDusjT8qpWI1o=
+		FJmy2LmPRXSK1e9BHo4NlmdFcF4=
 		</data>
 		<key>Headers/ViomiOAuth.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gp8wLBClsWKJE3ggdBfTWmv0lcg=
+		aU9j3hAFk+134GGZrW/J//nb30U=
 		</data>
 		<key>Modules/ViomiOAuth.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		oI+kkv1bK9M7B/aEg2wr0at4sEs=
+		rVE4avuvrZtAW/pwN+47Nqj56iQ=
 		</data>
 		<key>Modules/ViomiOAuth.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		oI+kkv1bK9M7B/aEg2wr0at4sEs=
+		rVE4avuvrZtAW/pwN+47Nqj56iQ=
 		</data>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		PMd2CYZDI32XyKK7s75pHdxpM0g=
+		Ex1jfcJzQXF7xlsYtenbx1B7LNU=
 		</data>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		V6/YnkGpiSiNXjidsiWn7Iofvzw=
+		UOdbHydPM3z7tQkFCsejqKDf89k=
 		</data>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		PMd2CYZDI32XyKK7s75pHdxpM0g=
+		Ex1jfcJzQXF7xlsYtenbx1B7LNU=
 		</data>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		V6/YnkGpiSiNXjidsiWn7Iofvzw=
+		UOdbHydPM3z7tQkFCsejqKDf89k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eJ2icRj5Qo5XTUIDusjT8qpWI1o=
+			FJmy2LmPRXSK1e9BHo4NlmdFcF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			G3KEHG+EybyBM4KdES0rbael3g0RQivt4+n9eTba7Hw=
+			qo9auS0CuAU50pmz2hHvXkNyL+fSmaejXoNOAae5Thg=
 			</data>
 		</dict>
 		<key>Headers/ViomiOAuth.h</key>
@@ -73,66 +73,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oI+kkv1bK9M7B/aEg2wr0at4sEs=
+			rVE4avuvrZtAW/pwN+47Nqj56iQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ANu6ZQQiAltSVAxa3yqe9gF6HBVqwLgAE6ydhTG06Vk=
+			6m+kvpVCYOZpKhqz0IkImqTGQwwCakXDqZghGUfDMy0=
 			</data>
 		</dict>
 		<key>Modules/ViomiOAuth.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oI+kkv1bK9M7B/aEg2wr0at4sEs=
+			rVE4avuvrZtAW/pwN+47Nqj56iQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ANu6ZQQiAltSVAxa3yqe9gF6HBVqwLgAE6ydhTG06Vk=
+			6m+kvpVCYOZpKhqz0IkImqTGQwwCakXDqZghGUfDMy0=
 			</data>
 		</dict>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PMd2CYZDI32XyKK7s75pHdxpM0g=
+			Ex1jfcJzQXF7xlsYtenbx1B7LNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			oFIKHPg2RXHWDs4uYm023fgHnzAPk64poeSZ7ISBL6Q=
+			Cw5OH/dY6z1OhaEo2nZHLc71055IPqfJGUl+iD2mDe8=
 			</data>
 		</dict>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V6/YnkGpiSiNXjidsiWn7Iofvzw=
+			UOdbHydPM3z7tQkFCsejqKDf89k=
 			</data>
 			<key>hash2</key>
 			<data>
-			6WtVIJPQSDQ07FhJqNK1XUqLgS2c7qj7crdC/T/V97k=
+			gwWAVxPYJvwA8n7a9cBn0IQL7S7KfZSSU5zcUGvLtfk=
 			</data>
 		</dict>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PMd2CYZDI32XyKK7s75pHdxpM0g=
+			Ex1jfcJzQXF7xlsYtenbx1B7LNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			oFIKHPg2RXHWDs4uYm023fgHnzAPk64poeSZ7ISBL6Q=
+			Cw5OH/dY6z1OhaEo2nZHLc71055IPqfJGUl+iD2mDe8=
 			</data>
 		</dict>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V6/YnkGpiSiNXjidsiWn7Iofvzw=
+			UOdbHydPM3z7tQkFCsejqKDf89k=
 			</data>
 			<key>hash2</key>
 			<data>
-			6WtVIJPQSDQ07FhJqNK1XUqLgS2c7qj7crdC/T/V97k=
+			gwWAVxPYJvwA8n7a9cBn0IQL7S7KfZSSU5zcUGvLtfk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
