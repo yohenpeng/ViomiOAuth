@@ -28,17 +28,25 @@
 		<data>
 		Ex1jfcJzQXF7xlsYtenbx1B7LNU=
 		</data>
+		<key>Modules/ViomiOAuth.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		5nHDwy2DmRGuiKrwFTCtw0Fxn5g=
+		</data>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UOdbHydPM3z7tQkFCsejqKDf89k=
+		F8ptEwkWybaQMkG5zltJwG6kdlM=
 		</data>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64.swiftdoc</key>
 		<data>
 		Ex1jfcJzQXF7xlsYtenbx1B7LNU=
 		</data>
+		<key>Modules/ViomiOAuth.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		5nHDwy2DmRGuiKrwFTCtw0Fxn5g=
+		</data>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		UOdbHydPM3z7tQkFCsejqKDf89k=
+		F8ptEwkWybaQMkG5zltJwG6kdlM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -102,15 +110,26 @@
 			Cw5OH/dY6z1OhaEo2nZHLc71055IPqfJGUl+iD2mDe8=
 			</data>
 		</dict>
+		<key>Modules/ViomiOAuth.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5nHDwy2DmRGuiKrwFTCtw0Fxn5g=
+			</data>
+			<key>hash2</key>
+			<data>
+			pOUETQ5Nnk18sL2PN4OGBoxaebpmb38XKSXrrl2o3B8=
+			</data>
+		</dict>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UOdbHydPM3z7tQkFCsejqKDf89k=
+			F8ptEwkWybaQMkG5zltJwG6kdlM=
 			</data>
 			<key>hash2</key>
 			<data>
-			gwWAVxPYJvwA8n7a9cBn0IQL7S7KfZSSU5zcUGvLtfk=
+			EfM1sq8ZgPM2CLVEanXkAwDOW/AzTsam91Xr0MvMOsM=
 			</data>
 		</dict>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64.swiftdoc</key>
@@ -124,15 +143,26 @@
 			Cw5OH/dY6z1OhaEo2nZHLc71055IPqfJGUl+iD2mDe8=
 			</data>
 		</dict>
+		<key>Modules/ViomiOAuth.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5nHDwy2DmRGuiKrwFTCtw0Fxn5g=
+			</data>
+			<key>hash2</key>
+			<data>
+			pOUETQ5Nnk18sL2PN4OGBoxaebpmb38XKSXrrl2o3B8=
+			</data>
+		</dict>
 		<key>Modules/ViomiOAuth.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UOdbHydPM3z7tQkFCsejqKDf89k=
+			F8ptEwkWybaQMkG5zltJwG6kdlM=
 			</data>
 			<key>hash2</key>
 			<data>
-			gwWAVxPYJvwA8n7a9cBn0IQL7S7KfZSSU5zcUGvLtfk=
+			EfM1sq8ZgPM2CLVEanXkAwDOW/AzTsam91Xr0MvMOsM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
