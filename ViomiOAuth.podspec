@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "ViomiOAuth"
-  spec.version      = "2.0.5"
+  spec.version      = "2.0.6"
   spec.summary      = "云米iOS ViomiOAuth SDK"
   spec.description  = <<-DESC
   云米iOS ViomiOAuth SDK
@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   
   spec.source       = { :git => "https://github.com/yohenpeng/ViomiOAuth.git", :tag => "#{spec.version}" }
   
-  spec.vendored_framework  = "ViomiOAuth.framework"
+  spec.vendored_framework  = "ViomiOAuth.xcframework"
 
   spec.swift_versions = ['5.1','5.2','5.3']
   spec.dependency "Alamofire","~> 5.4.0"
