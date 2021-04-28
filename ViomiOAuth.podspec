@@ -14,7 +14,6 @@ Pod::Spec.new do |spec|
   
   spec.vendored_framework  = "ViomiOAuth.xcframework"
 
-  spec.swift_versions = ['5.1','5.2','5.3']
   spec.dependency "Alamofire","~> 5.4.0"
 end
 
